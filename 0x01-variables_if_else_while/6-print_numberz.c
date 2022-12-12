@@ -1,18 +1,20 @@
 #include <stdio.h>
 /**
- * main - print numbers using putchar
+ * main - Entry point
  *
- * Return: 0
+ * Return: Always 0 (success)
  */
 int main(void)
 {
-	char 1;
+	int c;
 
-	for (1 = 1 ; 1 < 10 ; 1++)
-	{
-	putchar(1);
-	}
+	c = 0;
+	while
+		(c < 10)
+		{
+			putchar(c + '0');
+			c++;
+		}
 	putchar('\n');
 	return (0);
 }
-	
