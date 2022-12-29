@@ -9,6 +9,7 @@ char *cap_string(char *str)
 	int i;
 	int j;
 	char c[] = {44, 59, 46, 33, 63, 34, 40, 41, 123, 125, 32, 10, 9};
+
 	i = 0;
 
 	while (str[i] != '\0')
