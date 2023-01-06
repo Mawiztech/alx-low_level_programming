@@ -1,4 +1,4 @@
-#include "maun.h"
+#include "main.h"
 
 /**
  *long_1 - Main Entry
