@@ -4,13 +4,13 @@
 
 /**
  *
- *  * File: main
+ *File: main
  *
- *   *
  *
- *    *Desc: header file
  *
- *     */
+ *Desc: header file
+ *
+ */
 
 int _putchar(char c);
 
@@ -55,7 +55,5 @@ char *_strstr(char *haystack, char *needle);
 
 
 #endif
-
-Footer
 
 
