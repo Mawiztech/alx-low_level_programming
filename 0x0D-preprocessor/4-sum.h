@@ -1,4 +1,4 @@
-fndef LIKEMACRO_H
+#ifndef LIKEMACRO_H
 
 #define LIKEMACRO_H
 
